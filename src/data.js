@@ -9,7 +9,8 @@ const data = {
             brand : 'Nike',
             rating : 4.5,
             numReviews : 10,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 10
         },
         {
             _id : '2',
@@ -20,7 +21,8 @@ const data = {
             brand : 'Adidas',
             rating : 4.0,
             numReviews : 10,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 1
         },
         {
             _id : '3',
@@ -31,7 +33,8 @@ const data = {
             brand : 'Lacoste',
             rating : 4.8,
             numReviews : 17,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 0
         },
         {
             _id : '4',
@@ -42,7 +45,8 @@ const data = {
             brand : 'Nike',
             rating : 3,
             numReviews : 20,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 15
         },
         {
             _id : '5',
@@ -53,7 +57,8 @@ const data = {
             brand : 'Adidas',
             rating : 5.0,
             numReviews : 32,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 5
         },
         {
             _id : '6',
@@ -64,7 +69,8 @@ const data = {
             brand : 'Lacoste',
             rating : 4.5,
             numReviews : 10,
-            description : "High quality product"
+            description : "High quality product",
+            countInStock: 30
         },
     ]
 }
